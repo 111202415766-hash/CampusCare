@@ -1,0 +1,6 @@
+{
+  "name": "CampusCare - Sistem Pelaporan Fasilitas Kampus",
+  "description": "Sistem Pelaporan dan Monitoring Kerusakan Fasilitas Kampus Berbasis Web untuk Universitas Dian Nuswantoro (UDINUS).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
